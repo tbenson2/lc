@@ -3,4 +3,4 @@ I'd like to do my presentation on SuperCollider. It's a fascinating language I'd
 
 Edit:
 
-Specifically I'd like to look at SuperCollider and how you can handle live audio input. That's exactly what I want to research for my project.
+Specifically I'd like to look at SuperCollider and how you can handle live audio input. That's exactly what I want to research for my capstone.
