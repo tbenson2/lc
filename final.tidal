@@ -1,0 +1,25 @@
+d1 $ jux rev $ slow 8 $ s "birds" # n (irand 10) 
+# speed (-0.3)
+# gain 0.8
+# room 0.9
+# dry 0
+
+d2 $ s "sine*16?" # n (irand 6)
+# speed (2)
+# room 0.1
+# gain 0.8
+
+d3 $ jux rev $ s "tabla2*16?" # n (irand 46)
+# speed 5
+# gain 0.9
+# pan sine
+
+d4 $ s "bd:3*4"
+# speed 0.8
+# gain 1
+
+d5 $ s "~ ~ outdoor ~"
+# speed 1
+# gain 0.85
+
+hush
